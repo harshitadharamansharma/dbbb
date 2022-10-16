@@ -1,0 +1,52 @@
+
+<University> Maharishi Dayanand University (MDU)
+<Address>
+<Street_Name>Delhi Road </Street_Name>
+<Area>Sector 14</Area>
+<City>Rohtak</City>
+<State>Haryana</State>
+<Country>India</Country>
+</Address>
+<Vice_Chancellor>
+<Name>Prof. Rajbir Singh</Name>
+<Contact_No>01262274327</Contact_No>
+<E_Mail_ID>vc@mdurohtak.ac.in</E_Mail_ID>
+<Address>Rohtak
+<Street_Name>Delhi Road</Street_Name>
+<Area>Sector 14</Area>
+<City>Rohtak</City>
+<State>Haryana</State>
+<Country>India</Country>
+</Address>
+</Vice_Chancellor>
+<Dean_1>
+<Name_of_Faculty>ARTS</Name_of_Faculty>
+<Name>Sanjay Kumar</Name>
+<Contact_No>9998887776</Contact_No>
+<E_Mail_ID>Sanjay.kumar@mdu.ac.in</E_Mail_ID>
+<Address>
+<Street_Name>Delhi Road</Street_Name>
+<Area>Sector 14</Area>
+<City>Rohtak</City>
+<State>Haryana</State>
+<Country>India</Country>
+</Address>
+<Employee_ID>Arts1234567</Employee_ID>
+<Departments>
+<Department_Details_1>
+Hindi Department
+</Department_Details_1>
+<Head_of_the_Department>
+<Name>Sanjay Kumar</Name>
+<Contact_No>9998887776</Contact_No>
+<E_Mail_ID>Sanjay.kumar@mdu.ac.in</E_Mail_ID>
+</Head_of_the_Department>
+<Address>
+<Street_Name>Delhi Road</Street_Name>
+<Area>Sector 14</Area>
+<City>Rohtak</City>
+<State>Haryana</State>
+<Country>India</Country>
+</Address>
+<Members>
+<Name_of_Professor_1> Mayawa

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<University>
+ <name>Netaji Subhas University of Technology</name>
+ <address>
+    <streetName>Main Street</streetName>
+    <areaName>Dwarka Sector-3</areaName>
+    <city>Delhi</city>
+    <state>Delhi</state>
+    <Country>India</Country>
+ </address>
+ <ViceChancellor>
+    <name>Professor Harsh Vardhan</name>
+    <contactNo>28522398</contactNo>
+    <email>vc@du.ac.in </email>
+        <address>
+        <streetName>Vice Chancellor office, Netaji Subhas University of Technology</streetName>
+        <areaName>Dwarka Sector-3, Dwarka, Delhi, 110078</areaName>
+        <city>Delhi</city>
+        <state>Delhi</state>
+        <Country>India</Country>
+        </address>
+ </ViceChancellor>
+ <dean>
+    <facultyName>Faculty of Computer Science</facultyName>
+    <name>Professor Aarti Devi</name>
+    <contactNo>27662223, 27662223, 27667725</contactNo>
+    <email>facultyofcomputersciencedean@nsut.ac.in</email>
+    <address>
+        <streetName>Dean office, Faculty of Computer Science</streetName>
+        <areaName>Dwarka Sector-3, Dwarka, Delhi, 110078</areaName>
+        <city>Delhi</city>
+        <state>Delhi</state>
+        <Country>India</Country>
+    </address>
+    <employeeId>FOAPF0672</employeeId>
+    <Department>
+    <departmentDetails>
+    <name>Department of Library and Information Science</name>
+    <HOD>
+    <name>Prof. Shailendra Kumar</name>
+    <contactNo>0000000000</contactNo>
+    <email>Department of Library and Information 
+    Science</email>
+    </HOD>
+    <address>
+    <streetName>Department of Library and Information 
+    Science</streetName>
+    <areaName> Faculty of Arts, University of Delhi, Delhi 110007</areaName>
+    <city>Delhi</city>
+    <state>Delhi</state>
+    <Country>India</Country>
+    </address>
+    <members>
+    <professor>Prof. Margam Madhusudhan</professor>
+    <professor>Prof. Paramjeet Kaur Walia</professor>
+    <professor>Prof. Shailendra Kumar</professor>
+    </members>
+    </departmentDetails>
+    </Department>
+    <Department>
+    <departmentDetails>
+    <name>Department of Modern Indian Languages and Literary 
+    Studies</name>
+    <HOD>
+    <name>Prof. Amitava Chakraborty</name>
+    <contactNo>0000000000</contactNo>
+    <email>head@mil.du.ac.in</email>
+    </HOD>
+    <address>
+    <streetName>Deptartment of Modern Indian Languages and 
+    Literary Studies, 1st Floor</streetName>
+    <areaName>Tutorial Building, Faculty of Arts, 
+    University of Delhi, Delhi-110007</areaName>
+    <city>Delhi</city>
+    <state>Delhi</state>
+    <Country>India</Country>
+    </address>
+    <members>
+    <professor>Prof.Perakiash Chandra Pattanaik</professor>
+    <professor>Dr. Ravi Prakash Tekchandani</professor>
+    <professor>Dr. Amitava Chakraborty</professor>
+    </members>
+    </departmentDetails>
+    </Department>
+ </dean>
+ <dean>
+ <facultyName>Faculty of Commerce and Business Studies</facultyName>
+ <name>Professor Ajay Kumar Singh</name>
+ <contactNo>27314364, Phone: 27667891 x 1632 (EPABX)</contactNo>
+ <email>dean@commerce.du.ac.in</email>
+ <address>
+ <streetName>Department of Commerce</streetName>
+ <areaName>University of Delhi, Delhi-110007</areaName>
+ <city>Delhi</city>
+ <state>Delhi</state>
+ <Country>India</Country>
+ </address>
+ <employeeId>FOCPF0542</employeeId>
+ <Department>
+ <departmentDetails>
+ <name>Department of Commerce</name>
+ <HOD>
+ <name>Prof Ajay Kumar Singh</name>
+<contactNo>27667891</contactNo>
+<email>head@commerce.du.ac.in</email>
+ </HOD>
+ <address>
+ <streetName>Department of Commerce</streetName>
+<areaName>University of Delhi, Delhi- 110007</areaName>
+ <city>Delhi</city>
+<state>Delhi</state>
+ <Country>India</Country>
+ </address>
+ <members>
+ <professor>Prof. Vijay Kumar Shrotryia</professor>
+<professor>Prof. Vanita Tripathi</professor>
+ <professor>Prof. Kavita Sharma</professor>
+ </members>
+ </departmentDetails>
+ </Department>
+ <Department>
+ <departmentDetails>
+ <name>Department of Business Management and Industrial 
+Administration</name>
+ <HOD>
+ <name>Prof. Vivek Suneja</name>
+<contactNo>27666685 x 1620 (EPABX)</contactNo>
+<email>head@fms.edu</email>
+ </HOD>
+ <address>
+ <streetName>Department of Business Management and 
+Industrial Administration Faculty of Management Studies</streetName>
+ <areaName>University of Delhi, Delhi- 110007</areaName>
+ <city>Delhi</city>
+ <state>Delhi</state>
+ <Country>India</Country>
+ </address>
+ <members>
+ <professor>Prof. Manohar Singla</professor>
+<professor>Prof. Preetam Khandelwal</professor>
+ <professor>Prof. Tanuja Agarwala</professor>
+ </members>
+ </departmentDetails>
+ </Department>
+ </dean>
+ <dean>
+ <facultyName>Faculty of Science</facultyName>
+ <name>Professor Ashok K. Prasad</name>
+ <contactNo>27667794, 27666601</contactNo>
+ <email>dean_sci@du.ac.in</email>
+ <address>
+ <streetName>Faculty of Science</streetName>
+ <areaName>University of Delhi, Delhi- 110007</areaName>
+ <city>Delhi</city>
+ <state>Delhi</state>
+ <Country>India</Country>
+ </address>
+ <employeeId>FOSPF0732</employeeId>
+ <Department>
+ <departmentDetails>
+ <name>Department of Zoology</name>
+ <HOD>
+ <name>Prof. Rina Chakrabarti</name>
+<contactNo>91-11-27667985</contactNo>
+ <email>head@zoology.du.ac.in</email>
+ </HOD>
+ <address>
+ <streetName>Department of Zoology</streetName>
+ <areaName>University of Delhi, Delhi- 110007 
+</areaName>
+ <city>Delhi</city>
+<state>Delhi</state>
+<Country>India</Country>
+ </address>
+ <members>
+ <professor>Prof Yogendra Singh</professor>
+<professor>Prof. Madan Mohan Chaturvedi</professor>
+<professor>Prof. Vinod Kumar</professor>
+ </members>
+ </departmentDetails>
+ </Department>
+ <Department>
+ <departmentDetails>
+ <name>Department of Physics and Astrophysics</name>
+ <HOD>
+ <name>Prof. Brajesh Chandra Choudhary</name>
+ <contactNo>27666796, 27667793</contactNo>
+<email>head@Physics.du.ac.in</email>
+ </HOD>
+ <address>
+ <streetName>Department of Physics and 
+Astrophysics</streetName>
+ <areaName>University of Delhi, Delhi-110007</areaName>
+ <city>Delhi</city>
+<state>Delhi</state>
+<Country>India</Country>
+ </address>
+ <members>
+ <professor>Prof. Anjan Dutta</professor>
+<professor>Prof. Amarjeet Kaur</professor>
+<professor>Prof. Amita Chandra</professor>
+ </members>
+ </departmentDetails>
+ </Department>
+ </dean>
+</University>

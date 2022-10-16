@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<University>
+ <name>Netaji Subhas University of Technology</name>
+ <address>
+    <streetName>Main Street</streetName>
+    <areaName>Dwarka Sector-3</areaName>
+    <city>Delhi</city>
+    <state>Delhi</state>
+    <Country>India</Country>
+ </address>
+ <ViceChancellor>
+    <name>Professor Harsh Vardhan</name>
+    <contactNo>28522398</contactNo>
+    <email>vc@du.ac.in </email>
+        <address>
+        <streetName>Vice Chancellor office, Netaji Subhas University of Technology</streetName>
+        <areaName>Dwarka Sector-3, Dwarka, Delhi, 110078</areaName>
+        <city>Delhi</city>
+        <state>Delhi</state>
+        <Country>India</Country>
+        </address>
+ </ViceChancellor>
+ <Dean1>
+    <facultyName>Faculty of Computer Science</facultyName>
+    <name>Professor Aarti Devi</name>
+    <contactNo>27662223, 27662223, 27667725</contactNo>
+    <email>facultyofcomputersciencedean@nsut.ac.in</email>
+    <address>
+        <streetName>Dean office, Faculty of Computer Science</streetName>
+        <areaName>Dwarka Sector-3, Dwarka, Delhi, 110078</areaName>
+        <city>Delhi</city>
+        <state>Delhi</state>
+        <Country>India</Country>
+    </address>
+    
+   
